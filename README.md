@@ -12,7 +12,7 @@ I love to teach, guide and lead whenever I can. In the same manner, learning, be
 
 
 
- <img align ="right" alt="GIF" src="https://media.giphy.com/media/26BRvLfQiDkoWQbhS/giphy.gif" width="300px" /> 
+ <img align ="right" alt="GIF" src="https://giphy.com/gifs/9LQHvkbIzTSLe/html5" width="300px" /> 
 
 <!--https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif-->
 - 💬 Ask me about anything and everything !! 
