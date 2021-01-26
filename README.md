@@ -30,21 +30,16 @@ I love to teach, guide and lead whenever I can. In the same manner, learning, be
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="30px" src="https://miro.medium.com/max/3000/1*nLFpCEBm5zmKR4Bvm5bi5w.png" />
+<img align="left" alt="Figma" width="30px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
 
 <br><br>
  <p>
-<a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">
-    <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=linkedin" href="">
-  </a>
- <a href="https://medium.com/@adaksh5">
-    <img src="https://img.shields.io/badge/Akshat-Srivastava-386938188?style=flat&logo=medium" href="">
-  </a>
+
  <br><br>
 <!--  <a href="https://github.com/akshat-fsociety/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-fsociety&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&hide=jupyter%20notebook" alt="Akshat's github stats" />
 </a> -->
 
-<a href="https://github.com/akshat-fsociety/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-fsociety&show=issues&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40" />
+<a href="https://github.com/rishavvisen/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavvisen&show=issues&count_private=true&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40" />
 </a>
