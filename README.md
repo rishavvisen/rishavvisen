@@ -32,6 +32,7 @@ I love to teach, guide and lead whenever I can. In the same manner, learning, be
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Figma" width="30px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
 <img align="left" alt="Adobe Illustrator" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/688/688064.svg?token=exp=1620880415~hmac=9765758cbbb5328b68e9a8df1b9c90d6" />
+<img align="left" alt="Adobe Photoshop" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/688/688062.svg?token=exp=1620880560~hmac=95b04d0dd07002ece24b8f183ae6c764" />
 
 
 <br><br>
